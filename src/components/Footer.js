@@ -8,7 +8,7 @@ function Footer() {
                 <h5>Clave de alumno: 33209</h5>
             </div>
             <div>
-                <h5>Código fuente de la página: <a href="https://github.com/Davideo12/Proyecto-informatica" target="_blank">GitHub - Davideo12</a></h5>
+                <h5>Código fuente de la página: <a href="https://github.com/Davideo12/Proyecto-informatica" target="_blank" rel="Codigo Fuente">GitHub - Davideo12</a></h5>
                 <h5>Profesor: Cesar Aceves</h5>
             </div>
             <div>
