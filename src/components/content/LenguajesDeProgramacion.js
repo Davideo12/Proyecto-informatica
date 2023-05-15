@@ -5,7 +5,7 @@ function LenguajesDeProgramacion() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>Lenguajes de programación</h1>
-                <img src='https://cdn.mycplus.com/mycplus/wp-content/uploads/2009/02/programming-languages.jpg' />
+                <img src='images/programming-languages.jpg' alt='imagen'/>
                 <br />
             </div>
             <div>

@@ -5,7 +5,7 @@ function SurgimientoMicroprocesadores() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>El surgimiento de los microporcesadores</h1>
-                <img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpartesde.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fmicroprocesador-710x471.jpg&f=1&nofb=1&ipt=d72d6a193f6b829a9942dc3656d42789eb71a3b5dbf493bc7ce631dfe8c6c3bc&ipo=images' />
+                <img src='images/procesador.jpg' alt='imagen'/>
                 <br/>
             </div>
             <div>
@@ -15,7 +15,7 @@ function SurgimientoMicroprocesadores() {
                 <p>Los microprocesadores también han sido fundamentales en la evolución de la inteligencia artificial y la robótica. Los procesadores especializados en el procesamiento de datos en tiempo real han permitido el desarrollo de sistemas automatizados en industrias como la fabricación y la logística, lo que ha mejorado la eficiencia y la precisión de estas operaciones.</p>
                 <p>En la actualidad, los microprocesadores continúan evolucionando, con la introducción de chips cada vez más pequeños y potentes. Los procesadores de múltiples núcleos permiten la ejecución simultánea de múltiples tareas, y los avances en tecnología de memoria y almacenamiento han permitido el procesamiento y almacenamiento de grandes cantidades de datos de manera más eficiente.</p>
                 <center className='img-container effect-4'>
-                    <img src='https://images.unsplash.com/photo-1640955785023-1854685dae05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1546&q=80' />
+                    <img src='images/raspberrypi-pico-2.jpeg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>Microporocesadores open source, como lo es raspberry pi pico</span>
                 </center>

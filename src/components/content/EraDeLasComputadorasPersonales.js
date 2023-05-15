@@ -5,7 +5,7 @@ function EraDeLasComputadorasPersonales() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>La era de las computadoras personales</h1>
-                <img src='https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1762&q=80' />
+                <img src='images/imagen-random-1.jpeg' alt='imagen' />
                 <br/>
             </div>
             <div>
@@ -13,7 +13,7 @@ function EraDeLasComputadorasPersonales() {
                 <p>Las PCs permitieron a los usuarios realizar tareas como escribir documentos, realizar cálculos y comunicarse a través de correo electrónico y chats. La disponibilidad de software de productividad como Microsoft Office y navegadores web como Netscape Navigator hicieron que las PCs fueran una herramienta esencial en los negocios y en el hogar.</p>
                 <p>La popularidad de las PCs fue impulsada en gran medida por su capacidad para juegos y entretenimiento. Los juegos en PC, como <b>Doom</b> y <b>Myst</b>, eran más avanzados que cualquier cosa que se hubiera visto antes, y las PCs también permitieron a los usuarios acceder a música, videos y otros medios de entretenimiento. La capacidad de las PCs para la creación y edición de contenido, como fotos y videos, también contribuyó a su popularidad.</p>
                 <center className='img-container effect-5'>
-                    <img src='https://images.unsplash.com/photo-1611262588019-db6cc2032da3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80' />
+                    <img src='images/imagen-random-2.jpeg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>La macintosh ha sido la computadora más popular diseñada por Apple</span>
                 </center>

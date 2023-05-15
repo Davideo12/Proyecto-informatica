@@ -6,7 +6,7 @@ import ImageSlider from './ImageSlider';
 function Banner() {
 
     return ( 
-        <section class="index-pannel">
+        <section className="index-pannel">
             <div>
                 <h4 className='console-text'>
                     {"> david@server ~/documents/$"}
@@ -23,9 +23,9 @@ function Banner() {
                     />
                 </h4>
             </div>
-        <div class="flex-div">
+        <div className="flex-div">
                 <div>
-                    <h1 class="title-pannel">Historia de la <br/>computación</h1>
+                    <h1 className="title-pannel">Historia de la <br/>computación</h1>
                 </div>
                 <div>
                     <ImageSlider />

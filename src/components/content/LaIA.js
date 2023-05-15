@@ -3,7 +3,11 @@ import React from 'react';
 function LaIA() {
     return (
         <section className='content-section'>
-            <h1>La Inteligencia Artificial (IA)</h1>
+            <div className='portada-articulo'>
+                <h1>La Inteligencia Artificial (IA)</h1>
+                <img src='images/ai.jpg' alt='imagen' />
+                <br/>
+            </div>
             <div>
                 <p>La inteligencia artificial se enfoca en desarrollar <b>sistemas capaces de tomar decisiones y llevar a cabo acciones, que sean consideradas "inteligentes"</b>, como el reconocimiento de patrones, la resolución de problemas complejos, la toma de decisiones y el aprendizaje.</p>
                 <p>Esta rama de la informática ha tenido un gran impacto en diversas áreas, como la medicina, la industria, la educación, el transporte y el entretenimiento. La IA se ha utilizado para desarrollar diagnósticos médicos más precisos, mejorar la eficiencia en la producción industrial y personalizar la educación y el entretenimiento para cada usuario.</p>

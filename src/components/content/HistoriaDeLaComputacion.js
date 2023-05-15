@@ -6,7 +6,7 @@ function HistoriaDeLaComputacion() {
             <div className='portada-articulo'>
                 <h1>Historia de la computación</h1>
                 <center>
-                    <img src='images/Evolucion-Computadoras.jpeg' />
+                    <img src='images/Evolucion-Computadoras.jpeg' alt='imagen' />
                 </center>
             </div>
             <div>
@@ -14,7 +14,7 @@ function HistoriaDeLaComputacion() {
                 <p>A lo largo de la historia, <b>muchos inventores y científicos han contribuido al desarrollo de la computación</b>. En la Edad Media, por ejemplo, se utilizaban ábacos y otros dispositivos mecánicos para realizar cálculos. Con el tiempo, estas herramientas se fueron perfeccionando y dando lugar a las primeras calculadoras mecánicas.</p>
                 <p>En el, el matemático británico Charles Babbage diseñó una máquina de calcular programable, conocida como la <i>"máquina analítica"</i>, que fue precursora de las computadoras modernas. Sin embargo, la tecnología de la época no permitió la construcción de la máquina.</p>
                 <center className='img-container effect-1'>
-                    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7c%2F15%2F34%2F7c1534faa23c6dd1797920298cb07f03.png&f=1&nofb=1&ipt=0b9d94ed648c7eeb394ab756c1f4e504759ebf46510a5f0b5dc804ef08104e28&ipo=images' />
+                    <img src='images/maquinita.png' alt='imagen' />
                     <br />
                     <span className='img-description'>Imagen de la maquina analítica, diseñada por Charles Babbage</span>
                 </center>

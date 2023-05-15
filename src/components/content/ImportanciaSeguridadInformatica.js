@@ -3,7 +3,11 @@ import React from 'react';
 function ImportanciaSeguridadInformatica() {
     return (
         <section className='content-section'>
-            <h1>La importancia de la seguridad informática</h1>
+            <div className='portada-articulo'>
+                <h1>La importancia de la seguridad informática</h1>
+                <img src='images/security.jpg' alt='imagen'/>
+                <br/>
+            </div>
             <div>
                 <p>La seguridad informática es un tema cada vez más importante en nuestra sociedad moderna. En la actualidad, la mayoría de las empresas y organizaciones dependen en gran medida de la tecnología y la información digital, lo que hace que la seguridad informática sea una prioridad fundamental. </p>
                 <p>En este sentido, la seguridad informática se refiere a la protección de los sistemas y la información digital de <b>amenazas externas</b>, como hackers y virus, así como también de <b>amenazas internas</b>, como el robo de información por parte de empleados malintencionados.</p>

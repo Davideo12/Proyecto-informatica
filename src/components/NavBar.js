@@ -2,14 +2,14 @@ import React, { useState } from 'react';
 
 import NavContent from './NavContent';
 
-function NavBar({bgColor, setPage}) {
+function NavBar({setPage}) {
     const azul = "#03001C"
 
     const [navColor, setNavColor] = useState(azul);
-    const [dropdownActive, setDropdownActive] = useState(false);
+    const [dropdown, setDropdown] = useState(false);
 
     const handleDropdown = () => {
-        setDropdownActive(!dropdownActive);
+        setDropdown(!dropdown);
     };
 
     return (
@@ -21,8 +21,8 @@ function NavBar({bgColor, setPage}) {
                 </button>
             </div>
             <div>
-                {dropdownActive ? (
-                    <NavContent setDropdownActive={setDropdownActive} setNavColor={setNavColor} setPage={setPage} />
+                {dropdown ? (
+                    <NavContent setDropdown={setDropdown} setNavColor={setNavColor} setPage={setPage} />
                 ) : (
                     <div></div>
                 )}

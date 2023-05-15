@@ -5,14 +5,14 @@ function SurgimientoDeWWW() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>El surgimiento de la Worl Wide Web</h1>
-                <img src='https://images.unsplash.com/photo-1521106047354-5a5b85e819ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1746&q=80' />
+                <img src='images/internet.jpg' alt='imagen' />
                 <br/>
             </div>
             <div>
                 <p>El surgimiento de la <b>World Wide Web</b> (WWW o simplemente Web) se remonta a la década de 1990, cuando el físico británico <b>Tim Berners-Lee</b> creó una plataforma que permitía el intercambio de información en línea de manera global. Berners-Lee desarrolló un sistema para compartir información a través de <b>hipervínculos</b>, lo que permitió la navegación fácil y rápida por la información en línea y llevó a la creación de la Web tal como la conocemos hoy en día.</p>
                 <p>La introducción de la Web cambió la forma en que la gente accede y comparte información. Antes de la Web, la información en línea era principalmente en forma de boletines electrónicos o correos electrónicos, y la navegación por la información era tediosa y limitada. La Web permitió a los usuarios acceder a información de manera rápida y fácil, y también les permitió compartir información y comunicarse de maneras que antes no eran posibles.</p>
-                <center>
-                    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Factualizar-android.com%2Fwp-content%2Fuploads%2F2022%2F10%2F1666096016_Los-sitios-web-mas-populares-en-27-anos-de-historia-780x443.jpg&f=1&nofb=1&ipt=0602d85aca3980bc6f4b65bd2d2c2eaed339208067c21d16a9156128c9e30bd7&ipo=images'/>
+                <center className='img-container effect-3'>
+                    <img src='images/top-paginas.jpeg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>Los sitios web más populares de este lado del mundo</span>
                 </center>

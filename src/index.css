@@ -54,6 +54,33 @@ td {
   text-align: center;
 }
 
+label {
+  font-family: 'Rubik', sans-serif;
+  font-size: 18pt;
+}
+
+input {
+  font-size: 17pt;
+  width: 100%;
+}
+
+textarea {
+  font-size: 17pt;
+  width: 100%;
+}
+
+input[type="submit"] {
+  border-style: none;
+  padding: 10px 25px;
+  background-color: #146c23;
+  color: #d7d7d7;
+  border-radius: 5px;
+}
+
+.form-container {
+  padding: 10px;
+}
+
 /* NAV */
 
 nav {
@@ -87,6 +114,10 @@ nav {
 
 .nav-content li:hover {
   text-decoration: underline;
+}
+
+.nav-content li:visited {
+  color: darkmagenta;
 }
 
 /* PANNEL */

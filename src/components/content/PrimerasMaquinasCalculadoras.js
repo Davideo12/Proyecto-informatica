@@ -1,9 +1,14 @@
 import React from 'react';
 
 function PrimerasMaquinasCalculadoras() {
+
     return ( 
         <section className='content-section'>
-            <h1>Las primeras máquinas calculadoras</h1>
+            <div className='portada-articulo'>
+                <h1>Las primeras máquinas calculadoras</h1>
+                <img src='images/maquina-diferencial.jpeg' alt='imagen' />
+                <br/>
+            </div>
             <div>
                 <p>Las primeras máquinas calculadoras fueron desarrolladas a principios del siglo XVII por el matemático escocés <b>John Napier</b>. Napier desarrolló el "hueso de Napier", una tabla de multiplicación basada en logaritmos que permitía a los usuarios realizar cálculos de forma más rápida y precisa.</p>
                 <p>En 1623, Wilhelm Schickard, un matemático alemán, construyó una máquina calculadora mecánica. La máquina de Schickard podía sumar y restar números de seis dígitos y multiplicar y dividir números de dos dígitos.</p>

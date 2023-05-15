@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Banner from './Banner';
+import Formulario from './Formulario';
 
 // Contenido de texto
 import HistoriaDeLaComputacion from './content/HistoriaDeLaComputacion';
@@ -19,12 +20,13 @@ import ImportanciaSeguridadInformatica from './content/ImportanciaSeguridadInfor
 import LaIA from './content/LaIA';
 
 
-function NavContent({setDropdownActive, setNavColor, setPage}) {
+function NavContent({setDropdown, setNavColor, setPage}) {
     const morado = "#301E67"
     const azul = "#03001C"
 
     const pageContent = [
         {"component": Banner, "text": "Página principal"},
+        {"component": Formulario, "text": "Formulario"},
         {"component": HistoriaDeLaComputacion, "text": "Introducción a la historia de la computacion"},
         {"component": SurgimientoTecnologiaDigital, "text": "Surgimiento de la teconología digital"},
         {"component": LaEraDeLosMainframes, "text": "La era de los Mainframes"},
@@ -43,9 +45,9 @@ function NavContent({setDropdownActive, setNavColor, setPage}) {
 
     function handleClick(element) {
         setPage(element.component)
-        setDropdownActive(false)
+        setDropdown(false)
 
-        if(element.text == "Página principal") {
+        if(element.text === "Página principal") {
             setNavColor(azul)
         } else {
             setNavColor(morado)
@@ -57,7 +59,9 @@ function NavContent({setDropdownActive, setNavColor, setPage}) {
             <ul>
             {
                 pageContent.map(element => (
-                    <li onClick={() => handleClick(element)}>{element.text}</li>
+                    <li onClick={() => handleClick(element)} > 
+                        {element.text}
+                    </li>
                 ))
             }
            </ul>

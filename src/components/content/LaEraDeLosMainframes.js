@@ -5,7 +5,7 @@ function LaEraDeLosMainframes() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>La era de los Mainframes</h1>
-                <img src='https://www.muycomputerpro.com/wp-content/uploads/2020/09/mainframe_2.jpg' />
+                <img src='images/mainframe-1.jpg' alt='imagen' />
                 <br/>
             </div>
             <div>
@@ -14,14 +14,14 @@ function LaEraDeLosMainframes() {
                 <p>Una de las principales ventajas de los mainframes era su capacidad de <b>procesar grandes cantidades de datos</b> de manera eficiente. En lugar de procesar datos en pequeñas partes, los mainframes podían procesar grandes volúmenes de datos de manera simultánea, lo que les permitía procesar transacciones y operaciones complejas en un tiempo récord.</p>
                 <p>Otra ventaja de los mainframes era su capacidad para soportar múltiples usuarios simultáneamente. Esto hizo posible que varias personas pudieran trabajar en la misma computadora al mismo tiempo, lo que mejoró la eficiencia y la productividad.</p>
                 <center className='img-container effect-5'>
-                    <img src='https://www.cioal.com/wp-content/uploads/mainframe_IBM7090.jpg' />
+                    <img src='images/mainframe-2.jpg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>Una compañía que utilizaba computadoras para el manejo de informacion</span>
                 </center>
                 <p>Con el tiempo, los mainframes <b>evolucionaron</b> y se hicieron más pequeños, potentes y fáciles de usar. Además, el desarrollo de la tecnología de red permitió conectar varios mainframes entre sí, lo que permitió el procesamiento distribuido de datos y la creación de sistemas informáticos complejos.</p>
                 <p>En la actualidad, los mainframes <b>siguen siendo utilizados</b> por grandes empresas y organizaciones gubernamentales para procesar grandes cantidades de datos. Sin embargo, la llegada de las computadoras personales y los servidores de redes han disminuido su popularidad.</p>
                 <center className='img-container effect-3'>
-                    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.nextmedia.com.au%2FNews%2F20190411044442_mainframe.jpg&f=1&nofb=1&ipt=a551c29d75294af66e0c7bc0c705e37f603a57ad9f64d1e21c819eb0189d924e&ipo=images' />
+                    <img src='images/mainframe-3.jpeg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>Mainframes actualmente utilizados como servidores</span>
                 </center>

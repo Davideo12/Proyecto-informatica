@@ -5,7 +5,7 @@ function EvolucionDeSistmasOperativos() {
         <section className='content-section'>
             <div className='portada-articulo'>
                 <h1>Evolución de los sistemas operativos</h1>
-                <img src='https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2831&q=80' />
+                <img src='images/imagen-random-3.jpeg' alt='imagen' />
                 <br/>
             </div>
             <div>
@@ -17,7 +17,7 @@ function EvolucionDeSistmasOperativos() {
                 <p><b>Años 2000:</b> Se desarrollan sistemas operativos modernos, como Windows XP, macOS y Linux. Estos sistemas operativos incluyen características como la seguridad mejorada, la conectividad a Internet y la capacidad de ejecutar aplicaciones en línea.</p>
                 <p><b>Años 2010 y 2020:</b> Los sistemas operativos móviles, como iOS y Android, se vuelven cada vez más populares. Estos sistemas operativos se ejecutan en dispositivos móviles, como teléfonos inteligentes y tabletas, y ofrecen características como la multitarea, la conectividad a Internet y la compatibilidad con aplicaciones móviles.</p>
                 <center>
-                    <img className='img-container effect-2' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fs3.timetoast.com%2Fpublic%2Fuploads%2Fphoto%2F16436076%2Fimage%2Fcb056066d66dcf539ec9c658f65d65f7&f=1&nofb=1&ipt=d1272aa4366e97713b25c9ac936a67ab49a9285d340b0dc26e0928045882be6f&ipo=images'/>
+                    <img className='img-container effect-2' src='images/linea-del-tiempo-os.jpeg' alt='imagen'/>
                     <br/>
                     <span className='img-description'>Linea del tiempo de la evolucion de los sitemas operativos</span>
                 </center>

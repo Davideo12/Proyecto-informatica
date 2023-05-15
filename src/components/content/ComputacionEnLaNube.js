@@ -3,7 +3,11 @@ import React from 'react';
 function ComputacionEnLaNube() {
     return (
         <section className='content-section'>
-            <h1>Computación en la nube</h1>
+            <div className='portada-articulo'>
+                <h1>Computacion en la nube</h1>
+                <img src='images/cloud.jpg' alt='imagen' />
+                <br/>
+            </div>
             <div>
                 <p>La computación en la nube, también conocida como <i>cloud computing</i>, es una tecnología que ha revolucionado el mundo de la informática en la última década. Esta tecnología se basa en la utilización de servicios y recursos informáticos a través de internet, en lugar de utilizarlos desde equipos propios o locales.</p>
                 <p>La principal ventaja de la computación en la nube es que permite a las empresas y usuarios acceder a servicios y recursos informáticos de alta capacidad sin la necesidad de adquirir y mantener equipos propios costosos y complejos. Además, permite la escalabilidad de estos recursos según las necesidades del usuario, lo que resulta en una mayor eficiencia y flexibilidad.</p>

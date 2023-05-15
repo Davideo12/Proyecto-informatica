@@ -3,10 +3,19 @@ import React from 'react';
 function ImpactoTecnologiaEnLaSociedad() {
     return ( 
         <section className='content-section'>
-            <h1>Impacto de la teconología en la sociedad</h1>
+            <div className='portada-articulo'>
+                <h1>Impacto de la teconología en la sociedad</h1>
+                <img src='images/tech-sociedad.jpg' alt='imagen'/>
+                <br/>
+            </div>
             <div>
                 <p>La tecnología ha tenido un impacto significativo en la sociedad moderna, desde la forma en que nos comunicamos hasta la forma en que realizamos transacciones financieras. Uno de los desarrollos más interesantes de los últimos años ha sido el surgimiento de las criptomonedas.</p>
                 <p>Las criptomonedas, como <b>Bitcoin</b> y <b>Ethereum</b>, son monedas digitales que utilizan criptografía para garantizar la seguridad y privacidad de las transacciones. Estas monedas no están reguladas por ningún gobierno o institución financiera, lo que ha llevado a algunos a cuestionar su legitimidad y a otros a verlas como una forma de democratizar el sistema financiero.</p>
+                <center className='img-container effect-5'>
+                    <img src='images/crypto.jpg' alt='imagen'/>
+                    <br/>
+                    <span className='img-description'>Criptomonedas - Bitcoin, Ethereum</span>
+                </center>
                 <p>A pesar de la popularidad creciente de las criptomonedas, aún existen desafíos importantes. La volatilidad del mercado puede hacer que los precios fluctúen significativamente de un día para otro, lo que hace que invertir en ellas sea una apuesta arriesgada. Además, su uso en actividades ilegales y el lavado de dinero ha sido un problema para algunos países que han implementado regulaciones más estrictas.</p>
                 <p>Las <b>redes sociales</b> también han tenido un impacto significativo en la sociedad moderna. Las plataformas como Facebook, Twitter e Instagram han transformado la forma en que nos comunicamos y nos conectamos con otros, y han tenido un impacto significativo en la forma en que consumimos noticias e información.</p>
                 <p>A pesar de los beneficios, las redes sociales también han sido objeto de críticas por su capacidad para difundir información errónea y contribuir a la polarización política y social. Los usuarios también se preocupan cada vez más por su privacidad y la forma en que sus datos personales son utilizados por las plataformas de redes sociales.</p>
