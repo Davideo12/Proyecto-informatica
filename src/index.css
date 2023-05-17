@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 html, body {
   margin:0;
@@ -27,7 +28,7 @@ a:hover {
   color: #146c23;
 }
 
-h2, p, table {
+h2, h3, h4, h5, p, table, li {
   font-family: 'Source Sans Pro', sans-serif;
   color: #d7d7d7;
 }
@@ -37,7 +38,7 @@ h1 {
   font-family: 'Rubik', sans-serif;
 }
 
-p {
+p, li {
   font-size: 16pt;
 }
 
@@ -79,6 +80,24 @@ input[type="submit"] {
 
 .form-container {
   padding: 10px;
+}
+
+.cancion-container {
+  width: 100%;
+}
+
+.cancion {
+  width: 500px;
+  height: 500px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #320db84f;
+  box-shadow: 5px 5px 20px 1px #00000091;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.cancion h2 {
+  font-size: 25pt;
 }
 
 /* NAV */

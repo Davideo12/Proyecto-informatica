@@ -1,5 +1,3 @@
 # Pagina web - Proyecto de informatica
 
-### Fuentes:
-
-### Paleta de colores:
+Autor: Jesús David Elizondo Oliva 33209

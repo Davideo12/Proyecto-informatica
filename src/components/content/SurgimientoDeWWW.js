@@ -19,6 +19,12 @@ function SurgimientoDeWWW() {
                 <p>El surgimiento de la Web también llevó a la creación de muchos servicios en línea que ahora son comunes, como el correo electrónico, las búsquedas en línea, las redes sociales y el comercio electrónico. La Web permitió la creación de una economía en línea completamente nueva, que ha cambiado la forma en que las empresas operan y han creado nuevas oportunidades de negocio.</p>
                 <p>La popularidad de la Web ha llevado a un cambio en la forma en que la gente consume y crea contenido en línea. La capacidad de los usuarios para crear y compartir contenido ha llevado a la creación de plataformas como blogs, wikis y redes sociales, que han transformado la forma en que las personas interactúan y colaboran en línea.</p>
                 <p>En la actualidad, la Web sigue evolucionando y creciendo, con la adopción de tecnologías como la inteligencia artificial y la realidad virtual. La Web sigue siendo una plataforma esencial para la comunicación, el acceso a información y el comercio en línea.</p>
+                <center>
+                <video width="750" height="472" controls>
+                    <source src="/media/video.mp4" type="video/mp4" />
+                    Tu navegador no admite el elemento de video.
+                </video>
+                </center>
                 <p>En resumen, el surgimiento de la World Wide Web tuvo un impacto significativo en la forma en que la gente accede y comparte información en línea. La Web ha transformado la forma en que las personas interactúan y colaboran en línea, ha creado una economía en línea completamente nueva y sigue evolucionando y creciendo.</p>
             </div>
         </section>
