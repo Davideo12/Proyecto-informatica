@@ -8,7 +8,7 @@ function Formulario() {
                 <h1>Contacto</h1>
                 <p>Envía un mensaje SMS al autor de la página</p>
             </div>
-            <form method='post' action='http://localhost:4000/sendsms'>
+            <form method='post' action='https://sms-api-production-b5d4.up.railway.app/sendsms'>
                 <div className='form-container'>
                     <label htmlFor='sujeto'>Sujeto</label> <br/>
                     <input 
